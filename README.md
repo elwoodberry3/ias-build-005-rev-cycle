@@ -3,6 +3,6 @@
 </a>  
 
 # Hyper-Targeted Lead Enrichment
-### Mid-Market SaaS & Tech Startups  
-Deeply customized lead-enrichment trees connecting CRMs, LinkedIn scrapers, and browser agents — built to avoid exploding API costs.  
+### Banking, Finance, FinTech & Insurance  
+Integrates billing data across CRM, legacy ledger software, and accounting systems to eliminate manual reconciliation entry.  
 [Visit My Portfolio](https://i-automate-shit.com)  
