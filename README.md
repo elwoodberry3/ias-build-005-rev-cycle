@@ -2,7 +2,7 @@
   <img src="assets/images/thumbnail.png" alt="Built, not pitched. Watch the full workflow run.">
 </a>  
 
-# Hyper-Targeted Lead Enrichment
+# Revenue Cycle & Reconciliation
 ### Banking, Finance, FinTech & Insurance  
 Integrates billing data across CRM, legacy ledger software, and accounting systems to eliminate manual reconciliation entry.  
 [Visit My Portfolio](https://i-automate-shit.com)  
